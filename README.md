@@ -38,7 +38,7 @@ database created using knex, therefore you should fill .env file.
 		token : '################################'
 	}
 	
-	response if there token is valid will be :
+	response if the token is valid will be :
 	{
 		id : '#'
 	}
