@@ -7,9 +7,7 @@ Hi! I built user Authentication using **JSON Web Token**.
 
 ## Usage:
 #### Database
-database created using knex, therefor you should fill .env.
-
-  
+database created using knex, therefore you should fill .env file.
 
   >  npm database
 
@@ -45,6 +43,6 @@ database created using knex, therefor you should fill .env.
 		id : '#'
 	}
 	
-	check route has the middleware verify which set the id 		
+	check route has the middleware verify which sets the id 		
 	extracted from token in req.body
 ## END
